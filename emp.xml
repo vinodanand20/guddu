@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employee>
+	<eno>10</eno>
+	<name>Amir</name>
+	<salary>1000</salary>
+</employee>
